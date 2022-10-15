@@ -4,7 +4,7 @@ title: VISTA
 ---
 
 
-<img src="VISTA_Diagram.png" width="800" height="400">
+<img src="VISTA_Diagram.png" width="800" height="300">
 
 
 <!-- |Paper|Datasets|Code| -->
