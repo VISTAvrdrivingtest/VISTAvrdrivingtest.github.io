@@ -4,7 +4,6 @@ title: VISTA
 ---
 
 
-
 <img src="VISTA_Diagram.png" width="800" height="400">
 
 
