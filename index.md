@@ -11,7 +11,7 @@ title: VISTA
 <!-- |:---|---|---| -->
 <!-- |[**ICRA 2023 (TBD)**](https://arxiv.org)| [**GDrive (TBD)**](https://google.com)| [**Github (TBD)**](https://github.com)     |  -->
 
-<!-- <p align="center"><iframe width="700" height="400" src="https://www.youtube.com/embed/u6CTwj3lc8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyOQBs2-RPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- <b>Authors: </b> 
 <a href="https://laurayuzheng.github.io/">Laura Zheng</a>, 
