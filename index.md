@@ -27,7 +27,7 @@ Virtual reality (VR) is a powerful yet underutilized tool for understanding huma
 
 <b>Additional Results and Supplementary Material</b> 
 <div style="text-align: justify"> 
-[Download Appendix](files/vista_appendix.pdf)
+[Download Appendix](vista_appendix.pdf)
 
 <!-- <img src="https://obj.umiacs.umd.edu/gamma-umd-website-imgs/researchdirections/autonomousdriving/trafficdriving/all_scenarios.png" width="1024" height="780">
 Average velocity of traffic flow over time for each of the 26 CARLA Leaderboard Test Scenarios.
