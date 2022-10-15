@@ -5,7 +5,7 @@ title: VISTA
 
 
 
-<img src="VISTA_Diagram.png" width="800" height="600">
+<img src="VISTA_Diagram.png" width="800" height="400">
 
 
 <!-- |Paper|Datasets|Code| -->
@@ -31,7 +31,7 @@ In this paper, we combine systematic practices for VR user studies with knowledg
 
 <b>Additional Results and Supplementary Material</b> 
 <div style="text-align: justify"> 
-
+TBD
 
 <!-- <img src="https://obj.umiacs.umd.edu/gamma-umd-website-imgs/researchdirections/autonomousdriving/trafficdriving/all_scenarios.png" width="1024" height="780">
 Average velocity of traffic flow over time for each of the 26 CARLA Leaderboard Test Scenarios.
