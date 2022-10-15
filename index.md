@@ -20,17 +20,14 @@ title: VISTA
 
 <b>Abstract:</b> 
 <div style="text-align: justify"> 
-Virtual reality (VR) is a powerful yet underutilized tool for understanding human behavior in context of autonomous driving.
-Often user studies are used in evaluation of the outputs of proposed methods or systems.  In contrast, in this work we examine the possibility of using study results 
-conducted in a VR system for data generation to model human behaviors. Autonomous driving, at its core, involves 3D interaction with humans both as users and as actors in the environment. Today, there is little in autonomous driving research that explores human studies in VR as an avenue of data collection and behavioral understanding. 
-In this paper, we combine systematic practices for VR user studies with knowledge of key problems from autonomous driving research to standardize and establish guidelines in VR-based user studies for autonomous driving.
+Virtual reality (VR) is a powerful yet underutilized tool for understanding human behavior in context of autonomous driving. Often user studies are used in evaluation of the outputs of proposed methods or systems.  In contrast, in this work we examine the possibility of using study results conducted in a VR system for data generation to model human behaviors. Autonomous driving (AD) involves 3D interaction with humans both as users and as actors in the environment. Today, there is little in AD research that explores human studies in VR as an avenue of data collection and behavioral understanding. In this paper, we present Virtual Reality Study Systems for Autonomy (VISTA), a two-stage framework for designing VR-based study systems for AD.
 </div>
 
 <br>
 
 <b>Additional Results and Supplementary Material</b> 
 <div style="text-align: justify"> 
-TBD
+[Download Appendix](files/vista_appendix.pdf)
 
 <!-- <img src="https://obj.umiacs.umd.edu/gamma-umd-website-imgs/researchdirections/autonomousdriving/trafficdriving/all_scenarios.png" width="1024" height="780">
 Average velocity of traffic flow over time for each of the 26 CARLA Leaderboard Test Scenarios.
